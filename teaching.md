@@ -3,12 +3,6 @@ layout: page
 title: Teaching & Mentoring
 ---
 
-***TEACHING***
--
-(FA = Fall, WI = Winter, SP = Spring, SU = Summer)
-
----
-
 **Instructor of Record** 
 - 
 - SP 2025    SOC 312: Statistical Analysis Sociology
@@ -37,9 +31,11 @@ title: Teaching & Mentoring
 - WI 2020    SOC 207: Social Inequality (Instructor: Jessica Vasquez-Tokos)
 - FA 2019    SOC 345: Race & Ethnicity (Instructor: Jiannbin Lee Shiao)
 
+(FA = Fall, WI = Winter, SP = Spring, SU = Summer)
+
 ---
 
-***MENTORING*** 
+**Mentoring**
 -
 Graduate Mentor, Department of Sociology, University of Oregon
 - 2023-24    Jordan James: Race & Ethnicity, Education

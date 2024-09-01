@@ -3,7 +3,7 @@ layout: page
 title: Service
 ---
 
-**ACADEMIC SERVICE**
+**Academic Service**
 -
 **University of Oregon (Eugene, OR)**
 

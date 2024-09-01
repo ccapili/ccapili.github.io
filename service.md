@@ -1,3 +1,8 @@
+---
+layout: page
+title: Service
+---
+
 **ACADEMIC SERVICE**
 -
 **University of Oregon (Eugene, OR)**

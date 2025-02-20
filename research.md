@@ -16,7 +16,7 @@ title: Research
 
 **Dissertation**
 -
-*Creating Panethnicity: How Discrimination and Ethnonational Identity Affect Racialized Political Alignments* (in progress)
+**Creating Panethnicity: How Discrimination and Ethnonational Identity Affect Racialized Political Alignments** (in progress)
 
 Committee: Aaron Gullickson (Chair), Jiannbin Lee Shiao, Jessica Vasquez-Tokos, and Neil O'Brian (Political Science)
 

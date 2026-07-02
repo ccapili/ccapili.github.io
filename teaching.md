@@ -3,7 +3,20 @@ layout: page
 title: Teaching & Mentoring
 ---
 
-**Instructor of Record** 
+**Faculty Instructor, University of La Verne**
+-
+- FA 2026    SOC 305: Quantitative Analysis
+- FA 2026    SOC 400: Sociological Theory
+- FA 2026    SOC 250: Introduction to Sociology
+- SP 2026    SOC 305: Quantitative Analysis
+- SP 2026    SOC 400: Sociological Theory
+- SP 2026    SOC 250: Introduction to Sociology
+- FA 2025    SOC 400: Sociological Theory
+- FA 2025    SOC 250: Introduction to Sociology
+
+---
+
+**Instructor of Record, University of Oregon** 
 - 
 - SP 2025    SOC 312: Statistical Analysis Sociology
 - SP 2024    SOC 312: Statistical Analysis Sociology
@@ -13,7 +26,7 @@ title: Teaching & Mentoring
 
 ---
 
-**Teaching Assistant & Grader**
+**Teaching Assistant & Grader, University of Oregon**
 -
 - WI 2025    SOC 207: Social Inequality (Instructor: Ellen Scott)
 - FA 2024    SOC 280/199: Introduction to Criminology (Instructor: Stephanie Wiley)

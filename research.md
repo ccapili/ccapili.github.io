@@ -16,7 +16,7 @@ title: Research
 
 **Dissertation**
 -
-**Creating Panethnicity: How Discrimination and Ethnonational Identity Affect Racialized Political Alignments** (in progress)
+**Creating Panethnicity: How Discrimination and Ethnonational Identity Affect Racialized Political Alignments** (June 2025)
 
 Committee: Aaron Gullickson (Chair), Jiannbin Lee Shiao, Jessica Vasquez-Tokos, and Neil O'Brian (Political Science)
 
@@ -36,6 +36,8 @@ ABSTRACT: In the United States, political ideology and political party affiliati
 
 **Works Under Review and In Progress**
 -
+***Capili, Christine M.*** "Creating Panethnicity: Latino/a and Asian American Identity and Attachment in the United States" (in progress)
+
 ***Capili, Christine M.*** "An Interdisciplinary Approach in the Sociology of Race & Ethnicity" (in progress).
 
 ***Capili, Christine M.*** "A Multilevel Analysis of Intersecting Race, Class, Gender, & Politics" (in progress).
